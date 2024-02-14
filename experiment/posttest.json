@@ -2,38 +2,72 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "How does the arrival rate of customers affect the behavior of an M/G/1/N queueing system?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Higher arrival rate leads to shorter waiting times",
+        "b": "Lower arrival rate reduces system utilization",
+        "c": "Increased arrival rate may lead to system instability",
+        "d": "Arrival rate has no impact on system performance"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect. A higher arrival rate often results in longer waiting times as the queue becomes more congested.",
+        "b": "Incorrect. A lower arrival rate may reduce congestion but does not necessarily affect overall system utilization.",
+        "c": "Correct. An increased arrival rate relative to the service rate can lead to system instability, potentially causing congestion and delays.",
+        "d": "Incorrect. The arrival rate directly influences system performance, especially in terms of congestion and waiting times."
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does the assumption of general service time distributions (M/G/1/N) differ from assuming exponential service times (M/M/1/N) in a queueing system?",
+      "answers": {
+        "a": "M/G/1/N model allows for more flexible analysis of non-exponential service times",
+        "b": "M/M/1/N model guarantees shorter waiting times",
+        "c": "M/G/1/N model always results in higher system utilization",
+        "d": "M/M/1/N model is more suitable for high arrival rate scenarios"
+      },
+      "explanations": {
+        "a": "Correct. The M/G/1/N model allows for more flexible analysis by accommodating non-exponential service time distributions, which may better represent real-world scenarios.",
+        "b": "Incorrect. The choice between M/G/1/N and M/M/1/N models depends on various factors, and neither model guarantees shorter waiting times inherently.",
+        "c": "Incorrect. System utilization depends on various factors beyond the choice of service time distribution model.",
+        "d": "Incorrect. Both M/G/1/N and M/M/1/N models can be suitable for different scenarios, and neither is inherently more suitable for high arrival rate scenarios."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does the finite system capacity 'N' affect the trade-off between waiting time and system utilization?",
+      "answers": {
+        "a": "Higher 'N' results in shorter waiting times but lower system utilization",
+        "b": "Lower 'N' leads to higher system stability but longer waiting times",
+        "c": "Higher 'N' always ensures higher system utilization",
+        "d": "System utilization remains unaffected by the value of 'N'"
+      },
+      "explanations": {
+        "a": "Correct. Increasing 'N' allows more customers to wait in the system simultaneously, reducing waiting times but potentially lowering system utilization.",
+        "b": "Incorrect. Lowering 'N' may reduce system stability but does not necessarily guarantee longer waiting times.",
+        "c": "Incorrect. Higher 'N' can lead to higher system utilization in some scenarios, but it depends on various factors.",
+        "d": "Incorrect. The value of 'N' directly affects system utilization, especially to the trade-off with waiting time."
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How does variability in arrival rates impact the behavior of an M/G/1/N queueing system?",
+      "answers": {
+        "a": "Higher variability always leads to longer waiting times",
+        "b": "Lower variability guarantees higher system stability",
+        "c": "Variability does not affect system performance",
+        "d": "Variability may result in unpredictable system behavior"
+      },
+      "explanations": {
+        "a": "Incorrect. Variability in arrival rates can lead to unpredictable effects on waiting times, not necessarily always longer.",
+        "b": "Incorrect. Lower variability may contribute to stability but does not guarantee it, as other factors also influence system stability.",
+        "c": "Incorrect. Variability can significantly impact system performance, especially in terms of waiting times and congestion.",
+        "d": "Correct. Variability in arrival rates may lead to unpredictable fluctuations in system behavior, affecting waiting times and congestion."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
     }
   ]
 }
