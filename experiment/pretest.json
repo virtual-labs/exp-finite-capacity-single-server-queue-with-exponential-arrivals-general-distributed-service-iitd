@@ -27,7 +27,7 @@
         "d": "Poisson distribution"
       },
       "explanations": {
-        "a": "Correct. In the M/G/1/N queueing model, customer service times are assumed to follow an general distribution.",
+        "a": "Correct. In the M/G/1/N queueing model, customer service times are assumed to follow a general distribution.",
         "b": "Incorrect. The M/G/1/N model assumes general distributed service, not specifically a Gaussian distribution.",
         "c": "Incorrect. The M/G/1/N model assumes general distributed service, not specifically a uniform distribution.",
         "d": "Incorrect. The M/G/1/N model assumes general distributed service, not specifically a Poisson distribution."
