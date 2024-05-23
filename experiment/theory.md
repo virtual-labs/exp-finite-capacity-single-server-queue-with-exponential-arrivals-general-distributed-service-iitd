@@ -1,2 +1,3 @@
-<img src="images/MG1K-1.jpg"/>
-<img src="images/MGIK-2.jpg"/>
+<img src="images/mg1n-1n.png"/>
+<img src="images/mg1n-2n.png"/>
+<img src="images/mg1n-3n.png"/>
