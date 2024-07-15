@@ -1,0 +1,88 @@
+
+/home/runner/work/exp-finite-capacity-single-server-queue-with-exponential-arrivals-general-distributed-service-iitd/exp-finite-capacity-single-server-queue-with-exponential-arrivals-general-distributed-service-iitd/experiment/simulation/js/main.js
+   13:5   warning  't_end' is assigned a value but never used                      no-unused-vars
+   21:5   warning  'blocked' is assigned a value but never used                    no-unused-vars
+   54:3   warning  'google' is not defined                                         no-undef
+   58:3   warning  'google' is not defined                                         no-undef
+   61:12  warning  'google' is not defined                                         no-undef
+   80:17  warning  'google' is not defined                                         no-undef
+  112:10  warning  'checkDistribution' is defined but never used                   no-unused-vars
+  130:9   warning  'in_use' is assigned a value but never used                     no-unused-vars
+  136:5   warning  'mc' is not defined                                             no-undef
+  186:24  warning  'mc' is not defined                                             no-undef
+  238:7   warning  'in_use' is assigned a value but never used                     no-unused-vars
+  342:3   warning  'variance' is not defined                                       no-undef
+  354:7   warning  'in_use' is assigned a value but never used                     no-unused-vars
+  481:57  warning  'mc' is not defined                                             no-undef
+  486:38  warning  'mc' is not defined                                             no-undef
+  507:23  warning  'mc' is not defined                                             no-undef
+  508:22  warning  'mc' is not defined                                             no-undef
+  508:51  warning  'mc' is not defined                                             no-undef
+  518:9   warning  'Ts' is assigned a value but never used                         no-unused-vars
+  529:9   warning  'th_st' is assigned a value but never used                      no-unused-vars
+  530:9   warning  'ex_st' is assigned a value but never used                      no-unused-vars
+  551:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  557:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  563:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  576:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  592:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  596:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  600:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  604:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  608:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  612:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  625:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  629:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  658:9   warning  'th_st' is assigned a value but never used                      no-unused-vars
+  659:9   warning  'ex_st' is assigned a value but never used                      no-unused-vars
+  695:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  701:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  707:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  714:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  731:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  735:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  739:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  743:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  747:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  751:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  756:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  760:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  770:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  771:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  772:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  773:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  775:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  776:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  777:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  778:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  789:30  warning  'variance' is not defined                                       no-undef
+  797:9   warning  'th_st' is assigned a value but never used                      no-unused-vars
+  798:9   warning  'ex_st' is assigned a value but never used                      no-unused-vars
+  834:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  840:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  846:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  853:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  870:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  874:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  878:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  882:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  886:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  890:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  895:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  899:27  warning  Use the isNaN function to compare with NaN                      use-isnan
+  909:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  910:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  911:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  912:59  warning  Use the isNaN function to compare with NaN                      use-isnan
+  914:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  915:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  916:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  917:53  warning  Use the isNaN function to compare with NaN                      use-isnan
+  920:10  warning  'stopSimulation' is defined but never used                      no-unused-vars
+  932:10  warning  'startSimulationBasedOnDistribution' is defined but never used  no-unused-vars
+  957:10  warning  'google' is not defined                                         no-undef
+  975:3   warning  'mc' is not defined                                             no-undef
+  983:3   warning  'sTime' is not defined                                          no-undef
+
+✖ 83 problems (0 errors, 83 warnings)
+
